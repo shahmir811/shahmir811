@@ -1,4 +1,7 @@
+<!--
 [![MasterHead](https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)](https://github.com/shahmir811)
+-->
+
 <h1 align="center">Hi 👋, I'm Shahmir Khan Jadoon</h1>
 <h3 align="center">I am full stack developer specializing mostly in Javascript. Develop web apps using React.js/Node.js. But also works with Vue.js/Laravel.</h3>
 
