@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/shahmirkj" target="blank"><img src="https://img.shields.io/twitter/follow/shahmirkj?logo=twitter&style=for-the-badge" alt="shahmirkj" /></a> </p>
 
-- 🌱 I’m currently learning **Graphql**
+- 🌱 I’m currently making **Serverless Apps using AWS**
 
 - 💬 Ask me about **React, Node, Vue, MERN, MEVN**
 
